@@ -12,7 +12,9 @@ Number of streamlines(N)
 ```
 # Run
 
-```main.m
+```
+main.m
+
 ```
 # Contributors
 
